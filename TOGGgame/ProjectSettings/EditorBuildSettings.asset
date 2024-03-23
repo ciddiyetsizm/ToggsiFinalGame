@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UIsahne1.unity
+    guid: fc86fc0f60649f54484064944424ccd5
+  - enabled: 1
+    path: Assets/Scenes/ToggSahne1.unity
+    guid: 9adaa53c879af304f985c56127040125
+  - enabled: 1
+    path: Assets/Scenes/ToggSahne2.unity
+    guid: acc2fcf53f4c12145b778dee096c1cee
+  - enabled: 1
+    path: Assets/Scenes/UImenu2.unity
+    guid: 8f0a4bef559ebc14692350ea5e0a38de
+  - enabled: 1
+    path: Assets/Scenes/UIsahne2.unity
+    guid: daaaf67bbb0070b42ade9d14b6fc89c5
+  m_configObjects: {}
